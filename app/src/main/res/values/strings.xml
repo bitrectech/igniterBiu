@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">igniterbiu</string>
+    <string name="igniter_biu">IgniterBiu~</string>
+    <string name="about">WHO\nAREWE</string>
+    <string name="aboutWe">software</string>
+    <string name="instructions">instructions</string>
+    <string name="bitrefactor">bitrefactor</string>
+    <string name="github">github</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="sofar">Near device to connect</string>
+    <string name="requestPermission">Give me some permissions</string>
+    <string name="rescan">Rescan</string>
+    <string name="stopscan">Stop scan</string>
+    <string name="connectFail">Connection failed, try other devices</string>
+    <string name="connected">Connected</string>
+    <string name="leftSlip">Left slip connection device</string>
+    <string name="writeSuccessfully">Biu~ Boom~~</string>
+    <string name="serviceIsNull">Get service failed</string>
+    <string name="connecting">connecting</string>
+    <string name="version">v1.0.103_beta</string>
+</resources>

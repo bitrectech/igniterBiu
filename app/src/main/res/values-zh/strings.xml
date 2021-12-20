@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">igniterbiu</string>
+    <string name="igniter_biu">IgniterBiu~</string>
+    <string name="about">WHO\nAREWE</string>
+    <string name="aboutWe">关于软件</string>
+    <string name="instructions">使用方法</string>
+    <string name="bitrefactor">bitrefactor</string>
+    <string name="github">github</string>
+    <string name="disconnected">已断开连接</string>
+    <string name="sofar">无法连接设备，请尽量靠近设备</string>
+    <string name="requestPermission">给点权限</string>
+    <string name="rescan">Rescan</string>
+    <string name="stopscan">停止扫描</string>
+    <string name="connectFail">连接失败,试试其他设备</string>
+    <string name="connected">连接成功</string>
+    <string name="leftSlip">左滑连接设备</string>
+    <string name="writeSuccessfully">Biu~ Boom~~</string>
+    <string name="serviceIsNull">获取服务失败</string>
+    <string name="connecting">连接中</string>
+    <string name="version">1.0.103_beta</string>
+</resources>

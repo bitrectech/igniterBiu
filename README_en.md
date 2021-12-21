@@ -1,4 +1,5 @@
 # <font face="Black Italic">__IgniterBiu__</font>
+
 [![BLE5](https://img.shields.io/badge/Support-BLE5-blue)](BLE5)
 [![Android](https://img.shields.io/badge/Android-8.0+-blue)](Android)
 [![distance](https://img.shields.io/badge/BLE5_Theory_Distance-300M-BrightGreen?style=flat)](distance)
@@ -6,6 +7,8 @@
 [![version](https://img.shields.io/badge/Version-1.0.103__beta-color=Green?style=flat)](version)
 [![standard-readme
 compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+<img src="https://github.com/bitrefactor/igniterBiu/blob/master/app/src/main/res/drawable-nodpi/logosoft.png?raw=true" width="100" alt="logo" /> 
 
 Android Bluetooth remote ignition application is applied to the ignition operation of model rocket. This is the Android end source code. Bluetooth principle and source code [click here](https://github.com/bitrefactor/igniterBLE5)
 
@@ -36,53 +39,50 @@ Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/R
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Security
 
-### Any optional sections
+#### Location Permissions, Bluetooth Permission Description
+The mobile phone is turned on to grant positioning permissions, managing Bluetooth permissions, granting permissions only for Bluetooth associated with the application. Offline applications, data cannot be migrated
 
 ## Background
 
-### Any optional sections
+When the model rocket is ignition, in order to ensure safety, it is usually guaranteed to have sufficient safety distances and model rockets, and wired deployment is more cumbersome. Offline is the best choice. Why choose WiFi, first, the mobile phone is connected to the client to connect the ignition device, which will cause the mobile phone to be limited; the second point, the mobile phone is a hot spot, the ignition device is more cumbersome; third, Bluetooth low power version 5 support Connections within 300M, the connection is relatively simple.
 
 ## Install
 
-This module depends upon a knowledge of [Markdown]().
+#### FirstWay ([Download](https://github.com/bitrefactor/igniterbiu/release/download/v1.0.103_beta/v1.0.103_beta.apk))
 
+#### Second mode (compilation source mode installation)
+1.Download the source code
 ```
-```
+git clone https://github.com/bitrefactor/igniterbiu.git  #cloned source to the local
 
-### Any optional sections
+or
+
+wget https://github.com/bitrefactor/githiterbiu/archive/refs/tags/v1.0.103_beta.zip
+```
+2. Download [andriodstudio](https://develop/studio)
+
+3. Load the project to AndroidStudio to compile. Compilation error? [Issues](https://github.com/bitrefactor/igniterbiu/issues): Fasle
+
+<img src = "https://github.com/bitrefactor/igniterbiu/blob/master/.image/as_cut.png?raw=true"
+             Alt = "as_cut" />
+
+4. Mobile phone open developer mode, connect your computer, compile and install.
 
 ## Usage
 
 ```
 ```
 
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
 ## Contributing
 
-See [the contributing file](CONTRIBUTING.md)!
+```
+```
 
-PRs accepted.
+## Licenses
 
-Small note: If editing the Readme, please conform to the
-[standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
-## License
-
-[MIT © Richard McRichface.](../LICENSE)
+[GNU General Public License v3.0](../LICENSE)

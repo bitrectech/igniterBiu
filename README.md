@@ -38,10 +38,9 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 - [权限](#权限)
 - [设计初衷](#设计初衷)
 - [安装](#安装)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
+- [用法](#用法)
+- [原理](#原理)
+- [许可证](#许可证)
 
 ## 权限
 
@@ -72,34 +71,18 @@ wget https://github.com/bitrefactor/igniterBiu/archive/refs/tags/v1.0.103_beta.z
 <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/as_cut.png?raw=true"
             alt="as_cut" />
 
-### Any optional sections
+4.手机打开开发者模式，连接你的电脑，编译安装。
 
-## Usage
+## 用法
 
 ```
 ```
 
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
+## 原理
 
-### Any optional sections
+```
+```
 
-## API
+## 许可证
 
-### Any optional sections
-
-## More optional sections
-
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the
-[standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
-## License
-
-[MIT © Richard McRichface.](../LICENSE)
+[GNU General Public License v3.0 ](../LICENSE)

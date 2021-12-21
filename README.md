@@ -12,7 +12,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 
 安卓蓝牙远程点火应用,应用于模型火箭的点火操作,这是安卓端源码。蓝牙端原理源码[点击这里](https://github.com/bitrefactor/igniterBLE5)
 
-其他语言 [English](https://github.com/bitrefactor/igniterBiu/blob/master/README_en.md?raw=true)
+其他语言 [English](https://github.com/bitrefactor/igniterBiu/blob/master/README_en.md)
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">

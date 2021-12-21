@@ -12,7 +12,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 
 Android Bluetooth remote ignition application is applied to the ignition operation of model rocket. This is the Android end source code. Bluetooth principle and source code [click here](https://github.com/bitrefactor/igniterBLE5)
 
-Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/README.md?raw=true)
+Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/README.md)
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">

@@ -70,7 +70,7 @@ wget https://github.com/bitrefactor/igniterBiu/archive/refs/tags/v1.0.103_beta.z
 3.加载项目至AndroidStudio进行编译。 编译错误? [issues](https://github.com/bitrefactor/igniterBiu/issues) : fasle
 
 <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/as_cut.png?raw=true"
-            alt="scan" />
+            alt="as_cut" />
 
 ### Any optional sections
 

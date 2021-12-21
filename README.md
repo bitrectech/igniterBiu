@@ -18,16 +18,13 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200"
-            alt="scan" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200" alt="scan" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200"
-            alt="connect" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200" alt="connect" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200"
-            alt="homepage" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200" alt="homepage" />
             </td>
         </tr>
     </table>

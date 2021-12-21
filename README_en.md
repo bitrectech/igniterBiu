@@ -18,16 +18,13 @@ Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/R
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200"
-            alt="scan" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200" alt="scan" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200"
-            alt="connect" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200" alt="connect" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200"
-            alt="homepage" />
+                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200" alt="homepage" />
             </td>
         </tr>
     </table>
@@ -55,7 +52,7 @@ When the model rocket is ignition, in order to ensure safety, it is usually guar
 
 #### FirstWay ([Download](https://github.com/bitrefactor/igniterbiu/release/download/v1.0.103_beta/v1.0.103_beta.apk))
 
-#### Second mode (compilation source mode installation)
+#### SecondWay (compilation source mode installation)
 1.Download the source code
 ```
 git clone https://github.com/bitrefactor/igniterbiu.git  #cloned source to the local

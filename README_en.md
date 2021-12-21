@@ -46,7 +46,7 @@ The mobile phone is turned on to grant positioning permissions, managing Bluetoo
 
 ## Background
 
-When the model rocket is ignition, in order to ensure safety, it is usually guaranteed to have sufficient safety distances and model rockets, and wired deployment is more cumbersome. Offline is the best choice. Why choose WiFi, first, the mobile phone is connected to the client to connect the ignition device, which will cause the mobile phone to be limited; the second point, the mobile phone is a hot spot, the ignition device is more cumbersome; third, Bluetooth low power version 5 support Connections within 300M, the connection is relatively simple.
+When the model rocket is ignition, in order to ensure safety, it is usually guaranteed to have sufficient safety distances and model rockets, and wired deployment is more cumbersome. Offline is the best choice. Why not choose WiFi, first, the mobile phone is connected to the client to connect the ignition device, which will cause the mobile phone to be limited; the second point, the mobile phone is a hot spot, the ignition device is more cumbersome; third, Bluetooth low power version 5 support Connections within 300M, the connection is relatively simple.
 
 ## Install
 

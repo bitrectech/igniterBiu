@@ -10,7 +10,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 
 <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/app/src/main/res/drawable-nodpi/logosoft.png" width="100" alt="logo" />  
 
-Android Bluetooth remote ignition application is applied to the ignition operation of model rocket. This is the Android end source code. Bluetooth principle and source code [click here](https://github.com/bitrefactor/igniterBLE5)
+Android Bluetooth remote ignition application is applied to the ignition operation of model rocket. This is the Android end source code. Bluetooth principle and source code [click here](https://github.com/bitrefactor/igniter_ble50)
 
 Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/README.md)
 
@@ -46,7 +46,7 @@ The mobile phone is turned on to grant positioning permissions, managing Bluetoo
 
 ## Background
 
-When the model rocket is ignition, in order to ensure safety, it is usually guaranteed to have sufficient safety distances and model rockets, and wired deployment is more cumbersome. Offline is the best choice. Why not choose WiFi? Using WiFi situations, the mobile phone is connected to the client to connect the ignition device, which will cause the mobile phone to be limited; while the phone is used as a hotspot, the ignition device ends the network operation is more cumbersome; why choose Bluetooth? Bluetooth low-power versions 5 supports connections within 300m, and the connection is relatively simple.
+When the model rocket is ignition, in order to ensure safety, it is usually guaranteed to have sufficient safety distances and model rockets, and wired deployment is more cumbersome. Offline is the best choice. Why not choose WiFi, first, the mobile phone is connected to the client to connect the ignition device, which will cause the mobile phone to be limited; the second point, the mobile phone is a hot spot, the ignition device is more cumbersome; third, Bluetooth low power version 5 support Connections within 300M, the connection is relatively simple.
 
 ## Install
 

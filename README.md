@@ -8,7 +8,7 @@
 [![standard-readme
 compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-<img src="https://github.com/bitrefactor/igniterBiu/blob/master/app/src/main/res/drawable-nodpi/logosoft.png?raw=true" width="100" alt="logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/app/src/main/res/drawable-nodpi/logosoft.png" width="100" alt="logo" /> 
 
 安卓蓝牙远程点火应用,应用于模型火箭的点火操作,这是安卓端源码。蓝牙端原理源码[点击这里](https://github.com/bitrefactor/igniterBLE5)
 
@@ -18,13 +18,13 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200" alt="scan" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/scan.jpg" width="200" alt="scan" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200" alt="connect" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/connect.jpg" width="200" alt="connect" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200" alt="homepage" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/home.jpg" width="200" alt="homepage" />
             </td>
         </tr>
     </table>
@@ -49,7 +49,7 @@ compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?
 模型火箭的点火时,为了保障安全,通常要保证和模型火箭有足够的安全距离,并且有线部署比较繁琐。离线为最佳的选择。为什么不选择wifi,首先手机作为客户端连接点火装置,这样会导致手机的网络受限；第二点，手机作为热点，点火装置端配网操作比较繁琐；第三点，蓝牙低功耗版本5支持300m以内的连接，连接比较简易。
 
 ## 安装
-#### 第一种方式([下载安装](https://github.com/bitrefactor/igniterBiu/releases/download/v1.0.103_beta/v1.0.103_beta.apk))
+#### 第一种方式([下载安装 [Github](https://github.com/bitrefactor/igniterbiu/release/download/v1.0.103_beta/v1.0.103_beta.apk))
 
 
 #### 第二种方式(编译源码方式安装)
@@ -65,20 +65,19 @@ wget https://github.com/bitrefactor/igniterBiu/archive/refs/tags/v1.0.103_beta.z
 
 3.加载项目至AndroidStudio进行编译。 编译错误? [issues](https://github.com/bitrefactor/igniterBiu/issues) : fasle
 
-<img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/as_cut.png?raw=true"
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/as_cut.png?raw=true"
             alt="as_cut" />
 
 4.手机打开开发者模式，连接你的电脑，编译安装。
 
 ## 用法
 
-```
-```
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/igniter_usage_cn.png?raw=true"
+            alt="用法" />
+
 
 ## 原理
 
-```
-```
 
 ## 许可证
 

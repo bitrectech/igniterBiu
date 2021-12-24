@@ -181,7 +181,7 @@ class MainActivity : BaseActivity() {
         rc.layoutManager = layoutManager
         val evt:ArrayList<Evt> = arrayListOf()
         evt.add(Evt(R.string.aboutWe,R.drawable.about_ico){openAboutSoftware()})
-        evt.add(Evt(R.string.instructions,R.drawable.using_ico) {openOutWeb("https://github.com/bitrefactor/igniterBiu/blob/main/README.md")})
+        evt.add(Evt(R.string.instructions,R.drawable.using_ico) {openOutWeb("https://github.com/bitrefactor/igniterBiu/blob/master/README.md")})
         evt.add(Evt(R.string.bitrefactor,R.drawable.bitrefactor_ico) { openOutWeb("https://www.bitrefactor.com") })
         evt.add(Evt(R.string.github,R.drawable.github_ico) { openOutWeb("https://github.com/bitrefactor") })
         val adapter = RelatedEventsAdapter(this, evt )

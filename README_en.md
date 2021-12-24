@@ -8,7 +8,7 @@
 [![standard-readme
 compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-<img src="https://github.com/bitrefactor/igniterBiu/blob/master/app/src/main/res/drawable-nodpi/logosoft.png?raw=true" width="100" alt="logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/app/src/main/res/drawable-nodpi/logosoft.png" width="100" alt="logo" />  
 
 Android Bluetooth remote ignition application is applied to the ignition operation of model rocket. This is the Android end source code. Bluetooth principle and source code [click here](https://github.com/bitrefactor/igniterBLE5)
 
@@ -18,13 +18,13 @@ Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/R
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/scan.jpg?raw=true" width="200" alt="scan" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/scan.jpg" width="200" alt="scan" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/connect.jpg?raw=true" width="200" alt="connect" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/connect.jpg" width="200" alt="connect" />
             </td>
             <td>
-                <img src="https://github.com/bitrefactor/igniterBiu/blob/master/.image/home.jpg?raw=true" width="200" alt="homepage" />
+                <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/home.jpg" width="200" alt="homepage" />
             </td>
         </tr>
     </table>
@@ -50,7 +50,7 @@ When the model rocket is ignition, in order to ensure safety, it is usually guar
 
 ## Install
 
-#### FirstWay ([Download](https://github.com/bitrefactor/igniterbiu/release/download/v1.0.103_beta/v1.0.103_beta.apk))
+#### FirstWay (Download [Github](https://github.com/bitrefactor/igniterbiu/release/download/v1.0.103_beta/v1.0.103_beta.apk))
 
 #### SecondWay (compilation source mode installation)
 1.Download the source code
@@ -65,15 +65,17 @@ wget https://github.com/bitrefactor/githiterbiu/archive/refs/tags/v1.0.103_beta.
 
 3. Load the project to AndroidStudio to compile. Compilation error? [Issues](https://github.com/bitrefactor/igniterbiu/issues): Fasle
 
-<img src = "https://github.com/bitrefactor/igniterbiu/blob/master/.image/as_cut.png?raw=true"
-             Alt = "as_cut" />
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/as_cut.png?raw=true"
+            alt="as_cut" />
 
 4. Mobile phone open developer mode, connect your computer, compile and install.
 
 ## Usage
 
-```
-```
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/igniter_usage_en.png?raw=true"
+            alt="usage" />
+
+
 
 ## Contributing
 

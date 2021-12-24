@@ -72,12 +72,18 @@ wget https://github.com/bitrefactor/igniterBiu/archive/refs/tags/v1.0.103_beta.z
 
 ## 用法
 
+##### VIEW.下面是使用流程图,不清楚的地方请联系我
+
 <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/igniter_usage_cn.png?raw=true"
             alt="用法" />
 
 
 ## 原理
 
+##### VIEW.下面是原理图,不清楚的地方请联系我
+
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/Igniter_contributing_cn.png?raw=true"
+            alt="原理" />
 
 ## 许可证
 

@@ -72,6 +72,8 @@ wget https://github.com/bitrefactor/githiterbiu/archive/refs/tags/v1.0.103_beta.
 
 ## Usage
 
+##### VIEW. The following is the use flow chart. Please contact me if you don't know
+
 <img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/igniter_usage_en.png?raw=true"
             alt="usage" />
 
@@ -79,8 +81,11 @@ wget https://github.com/bitrefactor/githiterbiu/archive/refs/tags/v1.0.103_beta.
 
 ## Contributing
 
-```
-```
+##### VIEW. The following is the schematic diagram. Please contact me if you don't know
+
+<img src="https://cdn.jsdelivr.net/gh/bitrefactor/igniterBiu/.image/Igniter_contributing_en.png?raw=true"
+            alt="contributing" />
+
 
 ## Licenses
 

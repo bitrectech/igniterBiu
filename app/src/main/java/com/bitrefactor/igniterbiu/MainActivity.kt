@@ -33,8 +33,6 @@ import com.bitrefactor.igniterbiu.adapter.ScanDeviceAdapter
 import com.bitrefactor.igniterbiu.data.bean.*
 import com.bitrefactor.igniterbiu.data.localsource.entity.BleDevice
 import com.bitrefactor.igniterbiu.databinding.ActivityMainBinding
-import com.bitrefactor.igniterbiu.utils.B2Str.parseBytesToHexString
-import com.bitrefactor.igniterbiu.utils.B2Str.parseHexStringToBytes
 import com.bitrefactor.igniterbiu.utils.BleAdvertisedData
 import com.bitrefactor.igniterbiu.utils.BleUtil
 import com.bitrefactor.igniterbiu.views.DeviceRecyclerView
@@ -130,7 +128,7 @@ class MainActivity : BaseActivity() {
                             true
                         )
                         Log.d(TAG,"write successful")
-                        characteristic?.value = parseHexStringToBytes("fire");
+                        characteristic?.value = "fire".toByteArray();
                         bluetoothGatt?.writeCharacteristic(characteristic); }
                 }else{
                     Log.d(TAG,"write fail")
@@ -380,9 +378,8 @@ class MainActivity : BaseActivity() {
                     characteristic: BluetoothGattCharacteristic?,
                     status: Int
                 ) {
-                    val response: String = parseBytesToHexString(
-                        characteristic!!.value
-                    )
+                    val response: String = characteristic!!.value.toString()
+
                     Log.e(TAG, "The response is $response")
                 }
             })

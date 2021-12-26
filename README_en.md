@@ -32,12 +32,12 @@ Languages [简体中文](https://github.com/bitrefactor/igniterBiu/blob/master/R
 
 ## Table of Contents
 
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Security](#Security)
+- [Background](#Background)
+- [Install](#Install)
+- [Usage](#Usage)
+- [Principle](#Principle)
+- [License](#License)
 
 ## Security
 
@@ -79,7 +79,7 @@ wget https://github.com/bitrefactor/githiterbiu/archive/refs/tags/v1.0.103_beta.
 
 
 
-## Contributing
+## Principle
 
 ##### VIEW. The following is the schematic diagram. Please contact me if you don't know
 
